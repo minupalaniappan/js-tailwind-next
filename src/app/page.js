@@ -9,7 +9,7 @@
  *
  */
 
-import brise, { tw } from "@minupalaniappan/brise";
+import { tw } from "@minupalaniappan/brise";
 
 const Title = tw.div`
   text-xl
